@@ -9,6 +9,7 @@
 import UIKit
 import CoreData
 //commit y push
+//Peru va a ganar
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
