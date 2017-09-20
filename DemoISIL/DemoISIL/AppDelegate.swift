@@ -9,7 +9,7 @@
 import UIKit
 import CoreData
 //commit y push
-
+//HOLA MUCHACHOS ESTO ES UN CONFLICTO
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
