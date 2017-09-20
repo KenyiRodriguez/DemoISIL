@@ -9,6 +9,8 @@
 import UIKit
 import CoreData
 //commit y push
+//Peru va a ganar
+
 //HOLA MUCHACHOS ESTO ES UN CONFLICTO
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
